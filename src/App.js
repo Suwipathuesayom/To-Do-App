@@ -1,6 +1,5 @@
 import { useState, useEffect } from "react";
 import "./App.css";
-
 import { Button, Navbar, Container } from 'react-bootstrap';
 
 const App = () => {
